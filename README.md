@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" width="300" height="300" src="https://github.com/CaiqueVidal/CaiqueVidal/blob/master/img.jpg">
 
-<!--
-**CaiqueVidal/CaiqueVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello world, I'm Caique 
 
-Here are some ideas to get you started:
+Estudando para me tornar um desenvolvedor FullStack 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
+- 📚 Estudando  HTML, CSS, JavaScript, Java entre outras.
+
+---
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caique9d@gmail.com)](mailto:caique9d@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CaiqueVidal)](https://github.com/CaiqueVidal)
