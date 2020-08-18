@@ -1,8 +1,6 @@
-<img align="right" width="300" height="300" src="https://github.com/CaiqueVidal/CaiqueVidal/blob/master/img.jpg">
+<img align="right" width="250" height="250" src="https://github.com/CaiqueVidal/CaiqueVidal/blob/master/img.jpg">
 
 # Hello world, I'm Caique 
-
-Estudando para me tornar um desenvolvedor FullStack 😊
 
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
 - 📚 Estudando  HTML, CSS, JavaScript, Java entre outras.
